@@ -1,10 +1,10 @@
 Play Tic, Tac Toe from your terminal:
 ```
-  | X | O
------------
-X | O | X
+  | O | X
 -----------
 O | X | O
+-----------
+X | O | X
 
-"You won!"
+"You win!"
 ```
